@@ -46,5 +46,5 @@ Codepen Clone is open source software licensed under the MIT License
 
 ### Contributor
 
-* [Suhail Kakar](https://suhailkakar.com)
+* [Aniruddh Kumar](https://www.linkedin.com/in/aniruddh1006/)
 
